@@ -1,16 +1,3 @@
 # custom_toast
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Create a custom toast widget to appear on top of the screen like the Snackbar widget in the Flutter app.
+![custom toast](https://github.com/batoul-alani/custom-toast/assets/56093885/a5d5f5e4-045b-41a6-a837-c340a4576bab)
